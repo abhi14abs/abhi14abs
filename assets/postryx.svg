@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="282" viewBox="0 0 1280 282" role="img" aria-labelledby="title desc">
+  <title id="title">Postryx</title><desc id="desc">Content creation tools and digital invitations. Explore postryx.in.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#201323"/><stop offset="1" stop-color="#0F101B"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#F472B6" stop-opacity=".17"/><stop offset="1" stop-color="#F472B6" stop-opacity="0"/></radialGradient>
+    <linearGradient id="accent" x2="1" y2="1"><stop stop-color="#FDA4D4"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+    <clipPath id="clip"><rect width="1280" height="282" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="282" fill="url(#bg)"/>
+    <ellipse cx="1040" cy="150" rx="290" ry="215" fill="url(#glow)"/>
+    <rect width="4" height="282" fill="#F9A8D4"/>
+    <g font-family="'Segoe UI',Arial,sans-serif">
+      <text x="38" y="45" fill="#F9A8D4" font-size="11" font-weight="600" letter-spacing="2.6">03 / FEATURED WEBSITE</text>
+      <text x="36" y="104" fill="#FCF3FA" font-size="46" font-weight="750" letter-spacing="-1.7">Postryx<tspan fill="#F9A8D4">.</tspan></text>
+      <text x="39" y="147" fill="#D5BDCE" font-size="20">Content tools. Digital invitations. Creative possibilities.</text>
+      <text x="39" y="178" fill="#A58A9C" font-size="15">Explore AI content creation and invitations in one place.</text>
+      <rect x="39" y="211" width="145" height="34" rx="17" fill="#3C2036" stroke="#74435F"/>
+      <text x="56" y="233" fill="#F8C0DF" font-size="13" font-weight="600">postryx.in</text>
+      <path d="M158 230L167 221M160 221H167V228" fill="none" stroke="#F8C0DF" stroke-width="1.6"/>
+    </g>
+    <g transform="translate(869 27)">
+      <rect x="58" y="8" width="197" height="213" rx="14" fill="#2C1D33" stroke="#845675" transform="rotate(10 156 114)"/>
+      <rect x="26" y="22" width="197" height="213" rx="14" fill="#211525" stroke="#A16995" transform="rotate(-7 124 128)"/>
+      <g transform="translate(37 22)">
+        <rect width="197" height="213" rx="14" fill="#221B2E" stroke="#C28DAD"/>
+        <rect x="13" y="13" width="171" height="128" rx="8" fill="#37223D"/>
+        <path d="M98 26L109 58L141 69L109 80L98 113L87 80L55 69L87 58Z" fill="url(#accent)"/>
+        <path d="M145 31L149 44L162 48L149 52L145 65L141 52L128 48L141 44Z" fill="#D7B8EF"/>
+        <path d="M49 100L52 110L62 113L52 116L49 126L46 116L36 113L46 110Z" fill="#E7A6CD"/>
+        <rect x="16" y="156" width="125" height="6" rx="3" fill="#BE8BB0"/>
+        <rect x="16" y="171" width="153" height="4" rx="2" fill="#684E6A"/>
+        <rect x="16" y="182" width="105" height="4" rx="2" fill="#684E6A"/>
+        <circle cx="172" cy="192" r="9" fill="#AA7BBC"/>
+        <path d="M168 192H176M172 188V196" stroke="#F9E6F5" stroke-width="1.5"/>
+      </g>
+      <g transform="translate(248 165)">
+        <rect width="56" height="44" rx="10" fill="#402239" stroke="#C479A3"/>
+        <path d="M11 13H45V32H11ZM11 13L28 26L45 13" fill="none" stroke="#F9A8D4" stroke-width="1.5" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <rect x=".5" y=".5" width="1279" height="281" rx="20" fill="none" stroke="#503043"/>
+  </g>
+</svg>

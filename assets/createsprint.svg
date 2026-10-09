@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="282" viewBox="0 0 1280 282" role="img" aria-labelledby="title desc">
+  <title id="title">CreateSprint</title><desc id="desc">IT services, software solutions, and professional training. Explore createsprint.in.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#161126"/><stop offset="1" stop-color="#0D101B"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#8B5CF6" stop-opacity=".26"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+    <linearGradient id="accent" x2="1" y2="1"><stop stop-color="#C4A9FF"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+    <clipPath id="clip"><rect width="1280" height="282" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="282" fill="url(#bg)"/>
+    <ellipse cx="1050" cy="150" rx="280" ry="210" fill="url(#glow)"/>
+    <rect width="4" height="282" fill="#A78BFA"/>
+    <g font-family="'Segoe UI',Arial,sans-serif">
+      <text x="38" y="45" fill="#B9A0FA" font-size="11" font-weight="600" letter-spacing="2.6">02 / FEATURED WEBSITE</text>
+      <text x="36" y="104" fill="#F7F4FE" font-size="46" font-weight="750" letter-spacing="-1.7">CreateSprint<tspan fill="#A78BFA">.</tspan></text>
+      <text x="39" y="147" fill="#C6BED7" font-size="20">IT services. Software solutions. Professional training.</text>
+      <text x="39" y="178" fill="#9789AD" font-size="15">Explore software offerings and professional development programs.</text>
+      <rect x="39" y="211" width="178" height="34" rx="17" fill="#2B1D44" stroke="#544076"/>
+      <text x="56" y="233" fill="#D6C1FF" font-size="13" font-weight="600">createsprint.in</text>
+      <path d="M191 230L200 221M193 221H200V228" fill="none" stroke="#D6C1FF" stroke-width="1.6"/>
+    </g>
+    <g transform="translate(852 28)">
+      <path d="M0 66H42M266 181H315" stroke="#7D5AAD" stroke-opacity=".5"/>
+      <circle cx="317" cy="181" r="4" fill="#A78BFA"/>
+      <rect x="40" y="5" width="257" height="191" rx="13" fill="#201931" stroke="#6C4C96" transform="rotate(6 167 100)"/>
+      <rect x="17" y="37" width="257" height="191" rx="13" fill="#14111F" stroke="#7F64AA"/>
+      <path d="M17 69H274" stroke="#413050"/>
+      <circle cx="34" cy="54" r="3" fill="#B295DE"/><circle cx="45" cy="54" r="3" fill="#70568D"/><circle cx="56" cy="54" r="3" fill="#443155"/>
+      <rect x="80" y="49" width="163" height="10" rx="5" fill="#21182E"/>
+      <rect x="37" y="91" width="26" height="5" rx="2.5" fill="#9577BF"/>
+      <rect x="37" y="108" width="117" height="14" rx="4" fill="url(#accent)"/>
+      <rect x="37" y="130" width="94" height="14" rx="4" fill="#6B4C9C"/>
+      <rect x="37" y="158" width="110" height="4" rx="2" fill="#504061"/>
+      <rect x="37" y="169" width="81" height="4" rx="2" fill="#504061"/>
+      <rect x="37" y="187" width="64" height="21" rx="6" fill="#8B5CF6"/>
+      <g transform="translate(161 113)">
+        <path d="M45 0L88 25V76L45 102L2 77V25Z" fill="#251B39" stroke="#9670D2"/>
+        <path d="M45 0V50L2 25M45 50L88 25M45 50V102" fill="none" stroke="#9670D2"/>
+        <path d="M45 22L69 36V64L45 78L21 64V36Z" fill="url(#accent)" opacity=".85"/>
+        <path d="M45 22V50L21 36M45 50L69 36M45 50V78" fill="none" stroke="#E4D5FF" stroke-opacity=".5"/>
+      </g>
+      <path d="M304 34L317 29L312 42L309 36Z" fill="#B79DFA"/>
+    </g>
+    <rect x=".5" y=".5" width="1279" height="281" rx="20" fill="none" stroke="#3C2D51"/>
+  </g>
+</svg>
